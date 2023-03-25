@@ -1,0 +1,23 @@
+---
+id: rubykansai-2023-03
+base_name: rurema-progress-report
+tags:
+- ruby
+presentation_date: '2023-03-25'
+presentation_start_time:
+presentation_end_time:
+version: 2023.3.25.0
+licenses: []
+slideshare_id:
+speaker_deck_id:
+vimeo_id:
+youtube_id:
+width: 1920
+height: 1080
+author:
+  markup_language: :markdown
+  name: Kazuhiro NISHIYAMA
+  email: zn@mbf.nifty.com
+  rubygems_user: znz
+  slideshare_user: znzjp
+  speaker_deck_user: znz
